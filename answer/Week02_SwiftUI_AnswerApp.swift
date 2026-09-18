@@ -11,7 +11,7 @@ import SwiftUI
 struct Week02_SwiftUI_AnswerApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            ProfileCardView()
         }
     }
 }

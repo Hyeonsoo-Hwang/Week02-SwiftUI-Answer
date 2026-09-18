@@ -11,9 +11,9 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		83B0AB093057C69500491676 /* Week02 SwiftUI Answer */ = {
+		83B0AB093057C69500491676 /* answer */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = "Week02 SwiftUI Answer";
+			path = answer;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
@@ -32,7 +32,7 @@
 		83B0AAFE3057C69500491676 = {
 			isa = PBXGroup;
 			children = (
-				83B0AB093057C69500491676 /* Week02 SwiftUI Answer */,
+				83B0AB093057C69500491676 /* answer */,
 				83B0AB083057C69500491676 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -61,7 +61,7 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				83B0AB093057C69500491676 /* Week02 SwiftUI Answer */,
+				83B0AB093057C69500491676 /* answer */,
 			);
 			name = "Week02 SwiftUI Answer";
 			packageProductDependencies = (
